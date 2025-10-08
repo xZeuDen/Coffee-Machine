@@ -1,0 +1,7 @@
+Americano,2.50
+Latte,3.50
+Cappuccino,3.80
+Mocha,4.00
+Machiatto,3.50
+Espresso,2.00
+Tea,2.70
